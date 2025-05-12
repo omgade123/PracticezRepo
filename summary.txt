@@ -1,3 +1,2 @@
-Hello i am B.E Student from Dr D.Y. Patil Institute of Technology
-
-In AI and DS Branch
+Final Year student in AI Data Science student with expertise in data analysis, visualization, and predictive modeling.
+Proficient in extracting insights from complex datasets using Python, SQL, and ML techniques
